@@ -1,0 +1,3 @@
+[submodule "src/slack-notification-resource"]
+	path = src/slack-notification-resource
+	url = https://github.com/cloudfoundry-community/slack-notification-resource.git
